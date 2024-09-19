@@ -1,0 +1,37 @@
+      body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #7805a2;
+        }
+        .container {
+            display: flex;
+            gap: 100px; 
+            
+        }
+        .flexbox {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 250px;
+            height: 250px;
+            color: white;
+            font-size: 20px;
+        }
+        .title {   
+            font-size: 15px; 
+            justify-content: center;
+            align-items: center;
+        }
+        .box1 {
+            background-color: #e3afdf;
+        }
+        .box2 {
+            background-color: #e3afdf;
+        }
+        .box3 {
+            background-color: #e3afdf;
+        }
+
